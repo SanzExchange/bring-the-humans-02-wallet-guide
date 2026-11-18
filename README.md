@@ -41,7 +41,7 @@ Why the referral link matters: this bounty counts verified human signups bound t
 
 ## Step 2 — Set up a Solana wallet
 
-Prizes on make.fun are paid in USDC on Solana, so you need a Solana wallet address that you control. If you already have one, skip to Step 3.
+Prizes on make.fun are paid in USDC on Solana, so you need a Solana wallet address that you control. If you already have one, skip to Step 3. One more thing before you start: do this setup on a device you trust, on your own network, and never while screen-sharing. A wallet created on a shared or public computer is a wallet you should treat as compromised from day one.
 
 1. Install a Solana wallet you trust on your phone or as a browser extension. The well-known options are Phantom and Solflare; pick one, install it only from its official store page, and never from a link in a random message.
 2. Create a new wallet inside the app. It will show you a **secret recovery phrase** (usually 12 or 24 words).
